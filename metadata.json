@@ -1,0 +1,6 @@
+{
+  "name": "ArrayPlay - Antenna Array & Electromagnetics Playground",
+  "description": "Interactive antenna array simulator and electromagnetic calculators including 2D/3D radiation patterns, Dolph-Chebyshev, Microstrip Patch, Reflector, LPDA, and Biconical antennas.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
